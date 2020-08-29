@@ -8,7 +8,9 @@ Key features of this website is as follows:
 
 ## Some Screenshots of this website are shown below:    
 
-* This image shows the homepage of my e-commerce website.  
+* This image shows the homepage of my e-commerce website :pensive:  
+  
+  
 
 ![git_e_1](https://user-images.githubusercontent.com/54987617/91631185-925e3f00-e9f9-11ea-9292-e888cb2ca2bb.png)  
 
